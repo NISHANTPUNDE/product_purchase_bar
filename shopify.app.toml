@@ -3,7 +3,7 @@
 client_id = "a08ea8f60487001c5975af2c84073f3c"
 name = "Sticky-Cart-Bar"
 handle = "sticky-cart-bar"
-application_url = "https://says-ripe-oc-planned.trycloudflare.com"
+application_url = "https://hoped-north-toolkit-maritime.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_orders,read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://says-ripe-oc-planned.trycloudflare.com/auth/callback",
-  "https://says-ripe-oc-planned.trycloudflare.com/auth/shopify/callback",
-  "https://says-ripe-oc-planned.trycloudflare.com/api/auth/callback"
+  "https://hoped-north-toolkit-maritime.trycloudflare.com/auth/callback",
+  "https://hoped-north-toolkit-maritime.trycloudflare.com/auth/shopify/callback",
+  "https://hoped-north-toolkit-maritime.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
